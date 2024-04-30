@@ -4,15 +4,15 @@ Un algoritmo es un conjunto de instrucciones paso a paso diseñadas para resolve
 
 ### Algoritmos en esté repositorio
 
-- [Dos punteros]("./dos_punteros.js")
-- [Sliding Window]("./sliding_window.js")
-- [Reversed Array]("")
-- [Prefix sum]("./Prefix_sum.js")
-- [Hashing]("./hashing.js")
-- [isPangram]("./isPangram.js")
-- [new Set * Estructura de datos]("./set.js")
-- [Greedy]("./Greedy.js")
-- [Ordenamiento]("./Ordenamiento.js")
+- [Dos punteros](./dos_punteros.js)
+- [Sliding Window](./sliding_window.js)
+- [Reversed Array]()
+- [Prefix sum](./Prefix_sum.js)
+- [Hashing](./hashing.js)
+- [isPangram](./isPangram.js)
+- [new Set * Estructura de datos](./set.js)
+- [Greedy](./Greedy.js)
+- [Ordenamiento](./Ordenamiento.js)
 
 - - -
 
